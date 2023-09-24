@@ -1,7 +1,7 @@
 # PyHello - A demo project using mk docs
 
-For full documentation visit [https://sharabhshukla.github.io/pyhello/](https://www.mkdocs.org).
-# PyHello Project
+This is a demo project, showing the full power of using mkdocs for documentation of python
+repo. The site is deployed on github pages.
 
 **Description:**
 
